@@ -4,7 +4,7 @@
 # theme = "bookworm"
 #############################################
 ######################## default configuration ####################
-baseURL = "https://examplesite.org/"
+baseURL = "https://teamscumdev.github.io/TeamScumDev/"
 title = "Bookworm - Personal Blog Template"
 theme = "bookworm"
 # post pagination
